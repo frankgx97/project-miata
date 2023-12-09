@@ -8,3 +8,6 @@
 
 ## 中文
 [Project Miata——$2000玩具车 - Frank's Weblog](https://nyan.im/p/project-miata-zh)
+
+## References
+Fluids: http://wiki.miata.net/tiki-index.php?page=NA+Fluids
